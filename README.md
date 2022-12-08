@@ -1,2 +1,2 @@
 # RecSys-StudyProgram
-Sistem Rekomendasi Program Study
+Sistem Rekomendasi Program Studi
